@@ -1,7 +1,8 @@
 #include<bits/stdc++.h>
 #include<iomanip>
 using namespace std;
-int main(){
+int main()
+{
     int a,b,c;
     cin>>a>>b>>c;
     for(int i=0;i<=5000;i++){
